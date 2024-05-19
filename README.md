@@ -20,20 +20,19 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# TRedação do ENEM
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Criando um texto para dissertação no ENEM usando ChatGPT
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+ChatGPT
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Pedi para a IA criar um texto para o ENEM sobre o tema "O Estigma das Doenças Mentais", modelando através de alguns prompts
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
-
+A IA forneceu um texto com 5 parágrafos divididos em Introdução, Desenvolvimento 1, Desenvolvimento 2, Desenvolvimento 3 e Conclusão
 ## 💭 Reflexão (Opcional)
 Comente sobre o desafio de criar algo 'natty' com IA.
 ```
